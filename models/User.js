@@ -13,10 +13,7 @@ const UserSchema = new Schema(
             type: String,
             required: 'Email address is required!',
             unique: true,
-            validate: {
-                validator: () => Promise.resolve(false),
-                message: 'Email validation failed'
-            }
+            match: [/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/, 'Please provide a valid email']
         },
         thoughts: [
             {
@@ -47,4 +44,4 @@ UserSchema.virtual('friendCount').get(function() {
 
 const User = model('User', UserSchema);
 
-module.exports = Pizza;
+module.exports = User;
