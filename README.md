@@ -27,6 +27,7 @@
 # Links
 
 - Starting of server link: https://youtu.be/dAL68JfssJc
+- User Routes: https://youtu.be/DgRtsjr-QLo
 
 # Contributions
 
