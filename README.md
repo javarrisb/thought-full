@@ -2,7 +2,7 @@
 
 # Description
 
-Thought-Full is a social network application that allows users to create thoughts, react to their friends thoughts and also add friends to their friends list. This part of the application includes the backend functionality and uses MongoDB database, Express.js and Mongoose ODM. Thought-Full also shows routes using CRUD operations for the application.
+Thought-Full is a social network application that allows users to create thoughts, react to their friends thoughts and also add friends to their friend's list. This part of the application includes the backend functionality and uses MongoDB database, Express.js and Mongoose ODM. Thought-Full also shows routes using CRUD operations for the application.
 
 # Table of Contents
 
@@ -16,7 +16,7 @@ Thought-Full is a social network application that allows users to create thought
   
   # Usage
   
-  In order to use this app, you can go to the command line and enter 'npm start' for the server to start up and began testing the routes with the CRUD operations.
+  In order to use this app, you can go to the command line and enter 'npm start' for the server to start up and begin testing the routes with the CRUD operations.
   The links below demonstrate how the application performs:
   
   - Starting of server link: https://youtu.be/dAL68JfssJc
