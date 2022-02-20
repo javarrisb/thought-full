@@ -26,6 +26,7 @@
 
 # Links
 
+- Starting of server link: https://youtu.be/dAL68JfssJc
 
 # Contributions
 
