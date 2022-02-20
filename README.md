@@ -30,6 +30,7 @@
 - User Routes: https://youtu.be/DgRtsjr-QLo
 - Friend Routes: https://youtu.be/tzhWpxbseLk
 - Thought Routes: https://youtu.be/L-dvhB8lx9o
+- Reaction Routes: https://youtu.be/csFDza2Sqs0
 
 # Contributions
 
